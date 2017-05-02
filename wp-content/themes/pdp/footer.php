@@ -55,7 +55,7 @@
         </div><!--//footer-content-->
         <div class="bottom-bar">
             <div class="container center">                                   
-                <small class="copyright text-center">Copyright @ <?php echo date('Y'); ?> <a href="http://themes.3rdwavemedia.com/" target="_blank">People's Democratic Party Nepal</a></small>                 
+                <small class="copyright text-center">Copyright @ <?php echo date('Y'); ?> <a href="#" target="_blank">Gandhibadi Party Nepal</a></small>                 
             </div><!--//container-->
         </div><!--//bottom-bar-->
     </footer><!--//footer-->
