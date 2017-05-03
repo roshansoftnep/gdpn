@@ -95,7 +95,7 @@
             <div class="container">       
                 <h1 class="logo">
                 <img src="<?php echo esc_url(get_template_directory_uri());?>/images/logo.jpg" height="55px">
-                    <a href="<?php echo get_home_url(); ?>">Gandhi Badi Party Nepal</a>
+                    <a href="<?php echo get_home_url(); ?>">GandhiBadi Party Nepal</a>
                 </h1><!--//logo-->
                 <nav class="main-nav navbar-right" role="navigation">
                     <div class="navbar-header">
