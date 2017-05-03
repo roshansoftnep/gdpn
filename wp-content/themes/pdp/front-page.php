@@ -84,4 +84,27 @@ WHERE p.post_type = 'update' and p.post_status = 'publish' order by pdate desc l
             </div><!--//row-->
         </div><!--//container-->
     </section><!--//latest-blog-->
+
+    <section id="who" class="who section">
+        <div class="container text-center">
+            <div class="row benefits text-center">
+                <div class="item col-md-4 col-sm-6 col-xs-12">
+                    <div class="item-inner" style="height: 316px;">
+                        <div class="fb-page" data-href="https://www.facebook.com/Gandhi-Badi-International-Party-Nepal-1915631975345245" data-height="380" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/Gandhi-Badi-International-Party-Nepal-1915631975345245" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/Gandhi-Badi-International-Party-Nepal-1915631975345245">Gandhi Badi International Party Nepal</a></blockquote></div>              
+                    </div>       
+                </div><!--//item-->
+                <div class="item col-md-4 col-sm-6 col-xs-12 sm-break">
+                    <div class="item-inner" style="height: 316px;">
+                       <img class="img-responsive" src="<?php echo esc_url(get_template_directory_uri());?>/images/mid-image.jpg" alt="">  
+                    </div><!--//item-inner-->                    
+                </div><!--//item-->
+                <div class="item col-md-4 col-sm-6 col-xs-12">
+                    <div class="item-inner" style="height: 316px;">
+                        <a class="twitter-timeline" href="https://twitter.com/gandismpartynpl" data-height="380">Tweets by gandismpartynpl</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>           
+                    </div><!--//item-inner-->
+                </div><!--//item-->
+                
+            </div><!--//row-->
+        </div><!--//container-->
+    </section>
 <?php get_footer();?>
